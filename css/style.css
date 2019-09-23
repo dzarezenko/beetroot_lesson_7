@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Mansalva&display=swap');
+
+body {
+  
+}
+
+p:nth-child(1) {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+}
+div:nth-of-type(1) {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: normal;
+}
+div:nth-of-type(1) b {
+  font-weight: normal;
+}
+
+p:nth-child(2) {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p:nth-child(3) {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p:nth-child(4) {
+  font-family: 'Mansalva', cursive;
+}
